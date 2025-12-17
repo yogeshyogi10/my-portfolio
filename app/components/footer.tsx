@@ -34,7 +34,7 @@ const Footer: React.FC = () => {
     },
     {
       icon: Instagram,
-      href: "https://www.instagram.com/your-instagram",
+      href: "https://www.instagram.com/yogesh.webstudio?igsh=ZzBvcnBxNWpleXc0",
       title: "Instagram",
     },
     {
